@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+langchain
+langgraph
+langchain-groq
+googlemaps
+pydantic
